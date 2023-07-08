@@ -1,0 +1,48 @@
+{
+  "name": "Shyam Pathade",
+  "bio": "Open Source Developer | Passionate **software engineer** |  Travel enthusiast",
+  "tags": [
+    "Open Source",
+    "Javascript",
+    "Typescript",
+    "NextJS",
+    "DevOps"
+   
+  ],
+
+  "socials": [
+    {
+      "icon": "FaTwitter",
+      "url": "https://twitter.com/Shyamptwt"
+    },
+    {
+      "icon": "FaGithub",
+      "url": "https://github.com/shyampathade"
+    },
+    {
+      "icon": "FaLinkedin",
+      "url": "https://www.linkedin.com/in/shyam-pathade-412631269/"
+    }
+   
+  ],
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Shyamptwt",
+      "icon": "FaTwitter"
+    },
+ 
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shyam-pathade-412631269/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/shyampathad",
+      "icon": "FaGithub"
+    }
+  
+   
+  ]
+}
